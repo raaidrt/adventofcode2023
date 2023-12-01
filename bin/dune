@@ -1,0 +1,4 @@
+(executable
+ (public_name adventofcode2023)
+ (name main)
+ (libraries adventofcode2023 base stdio))
