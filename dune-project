@@ -1,4 +1,4 @@
-(lang dune 2.5)
+(lang dune 3.12)
 
 (name adventofcode2023)
 
@@ -7,9 +7,9 @@
 (source
  (github username/reponame))
 
-(authors "Author Name")
+(authors "Raaid Tanveer")
 
-(maintainers "Maintainer Name")
+(maintainers "Raaid Tanveer")
 
 (license LICENSE)
 
@@ -17,8 +17,8 @@
 
 (package
  (name adventofcode2023)
- (synopsis "A short synopsis")
- (description "A longer description")
+ (synopsis "Advent of Code 2023 Solutions")
+ (description "Don't look at my solutions.")
  (depends ocaml dune)
  (tags
   (topics "to describe" your project)))

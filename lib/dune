@@ -1,2 +1,3 @@
 (library
- (name adventofcode2023))
+ (name adventofcode2023)
+ (libraries base day1))
